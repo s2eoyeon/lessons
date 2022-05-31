@@ -1,7 +1,7 @@
 ---
 title: "언어심리학을 위한 데이터 사이언스 12주차: 데이터 사이언스 #5 (재현가능 연구)"
 author: "12주차 퀴즈 파일"
-date: '2022-05-26'
+date: '`r format(Sys.Date())`'
 output: 
   html_document:
     theme: cerulean
